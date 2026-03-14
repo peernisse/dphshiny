@@ -12,7 +12,8 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 version](https://peernisse.r-universe.dev/badges/VERSION/dphshiny)](https://peernisse.r-universe.dev/package/dphshiny)
 <!-- badges: end -->
 
-The goal of dphshiny is to …
+The goal of dphshiny is to provide shiny app templates by using the New
+Project interface in RStudio.
 
 ## Installation
 
