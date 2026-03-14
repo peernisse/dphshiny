@@ -8,8 +8,6 @@
 ![Static Badge](https://img.shields.io/badge/Version-0.1.0-blue)
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
-[![R-universe
-version](https://peernisse.r-universe.dev/badges/VERSION/dphshiny)](https://peernisse.r-universe.dev/package/dphshiny)
 <!-- badges: end -->
 
 The goal of dphshiny is to provide shiny app templates by using the New
@@ -50,10 +48,3 @@ summary(cars)
 
 You’ll still need to render `README.Rmd` regularly, to keep `README.md`
 up-to-date. `devtools::build_readme()` is handy for this.
-
-You can also embed plots, for example:
-
-<img src="man/figures/README-pressure-1.png" width="100%" />
-
-In that case, don’t forget to commit and push the resulting figure
-files, so they display on GitHub and CRAN.
