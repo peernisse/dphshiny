@@ -19,8 +19,8 @@ You can install the development version of dphshiny from
 [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("pak")
-pak::pak("peernisse/dphshiny")
+# install.packages("remotes")
+remotes::install_github("peernisse/dphshiny")
 ```
 
 ## Example
