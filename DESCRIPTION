@@ -1,0 +1,15 @@
+Type: Package
+Package: dphshiny
+Title: Begin a Shiny App Project with DPH Structure
+Version: 0.1.0
+Authors@R: 
+    person("Peter", "EerNisse", , "peernisse@utah.gov", role = c("aut", "cre"))
+Description: This package will present an option in RStudio New Project
+    dialog that will start a new Shiny app project with the DPH structure
+    and files.
+License: file LICENSE
+Imports: 
+    usethis
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2

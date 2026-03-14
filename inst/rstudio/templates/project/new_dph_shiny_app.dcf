@@ -1,0 +1,11 @@
+Binding: new_dph_shiny_app
+Title: Shiny Application with {dphshiny}
+OpenFiles: R/utils.R
+Icon: shiny.png
+
+Parameter: template
+Widget: SelectInput
+Label: Choose Template Shiny App
+Fields: Vanilla Shiny, bslib Top Navigation + modules, shinydashboard + modules
+Default: Vanilla Shiny
+Position: left
