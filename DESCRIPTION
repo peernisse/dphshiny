@@ -9,6 +9,7 @@ Description: This package will present an option in RStudio New Project
     and files.
 License: file LICENSE
 Imports: 
+    devtools,
     usethis
 Encoding: UTF-8
 LazyData: true
