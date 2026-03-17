@@ -1,0 +1,3 @@
+# License
+
+    Copyright 2026 Utah Department of Health and Human Services. All rights reserved.
