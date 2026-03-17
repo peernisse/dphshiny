@@ -5,7 +5,8 @@
 
 <!-- badges: start -->
 
-![Static Badge](https://img.shields.io/badge/Version-0.1.0-blue)
+[![Version:
+0.1.0](https://img.shields.io/badge/Version-0.1.0-blue)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
